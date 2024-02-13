@@ -22,8 +22,8 @@ I am also contributing various FLOSS and OSS projects around GitHub/Gitlab/Pagur
 <br>
 <br>
 <p align="center">
-  <img width="50%" src="https://github-readme-stats-five-topaz-76.vercel.app/api?username=onuralpszr&show_icons=true&theme=dark" alt="Onuralp's GitHub stats"></img>
-  <img width="50%" src="https://ghstats.onuralpsezer.com/?user=onuralpszr&theme=dark&hide_border=false" alt="Onuralp's GitHub Streak stats"></img>
+  <img width="50%" src="https://github-readme-stats-five-topaz-76.vercel.app/api?username=onuralpszr&show_icons=true&theme=dark" alt="Niyati's GitHub stats"></img>
+  <img width="50%" src="https://ghstats.onuralpsezer.com/?user=onuralpszr&theme=dark&hide_border=false" alt="Niyati's GitHub Streak stats"></img>
 </p>
 
 
@@ -172,20 +172,4 @@ Here is my Arsenal Tools and Skills I use;
 - [Nvidia Auto Installer](https://github.com/t0xic0der/nvidia-auto-installer-for-fedora)
 - [Ultralytics](https://github.com/ultralytics/ultralytics)
 
-## Useful links
-If you want to stay in touch with me, these links can be useful.
- 
-- [LinkedIn](https://www.linkedin.com/in/osezer/)
-- [AskFedora account](https://ask.fedoraproject.org/u/thunderbirdtr/)
-- [Twitter](https://twitter.com/onuralpszr)
-- [Fedora Pagure Account](https://pagure.io/user/thunderbirdtr)
-- [Src.Fedora Account ](https://src.fedoraproject.org/user/thunderbirdtr/)
-- [Credly](https://www.credly.com/users/onuralp-sezer/badges)
-- [Google Developer Account](https://developers.google.com/profile/u/onuralpsezer)
-- [Personal Fedora wiki page](https://fedoraproject.org/wiki/User:Thunderbirdtr)
-- [Fedora Contribution Badges](https://badges.fedoraproject.org/user/thunderbirdtr)
-- [Google Cloud Skill Boost Profile](https://www.cloudskillsboost.google/public_profiles/aa921c43-e963-4266-aa26-e7465dab9aec)
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-[![@osezer's Holopin board](https://holopin.me/osezer)](https://holopin.io/@osezer)
