@@ -11,7 +11,7 @@
 
 Greetings! I'm Niyati, a seasoned Senior Software Engineer proficient in Python, Kotlin, C++, Rust and OpenCV. My expertise lies in the captivating realms of AR, Machine Learning, Deep Learning, and Computer Vision. Engaging in extensive DevOps and MLOps practices further complements my skill set. 
 
-I am a long term <a href="https://fedoraproject.org/wiki/User:onuralpszr"> Contributor and Mindshare Member,Fedora KDE SIG Member,Fedora Website and Apps Team Member and RPM Packager</a> at Fedora Project.
+I am a long term  Contributor and Mindshare Member,Fedora KDE SIG Member,Fedora Website and Apps Team Member and RPM Packager</a> at Fedora Project.
 
 Professionally, I use Python development on backend side of works and on mobile side I used Kotlin and flutter with Google technologies such as <a href="https://developers.google.com/ar">ARCore</a>,<a href="https://mediapipe.dev/">Mediapipe</a>,<a href="https://firebase.google.com/">Firebase</a>,<a href="https://protobuf.dev/">Protobuf</a>,<a href="https://flatbuffers.dev/">FlatBuffers</a> and many others. On machine learning sides I used <a href="https://www.tensorflow.org">Tensorflow</a>,<a href="https://www.tensorflow.org/tensorboard">Tensorboard</a>,<a href="https://keras.io/">Keras</a>,<a href="https://github.com/google/jax">Jax</a>,<a href="https://www.pytorch.org">Pytorch</a>. These tools enable me to incorporate ML/DL/AI into apps and products. Additionally, I use the Unity engine for creating AR and ML applications.
 
@@ -21,11 +21,6 @@ I am also contributing various FLOSS and OSS projects around GitHub/Gitlab/Pagur
 
 <br>
 <br>
-<p align="center">
-  <img width="50%" src="https://github-readme-stats-five-topaz-76.vercel.app/api?username=onuralpszr&show_icons=true&theme=dark" alt="Niyati's GitHub stats"></img>
-  <img width="50%" src="https://ghstats.onuralpsezer.com/?user=onuralpszr&theme=dark&hide_border=false" alt="Niyati's GitHub Streak stats"></img>
-</p>
-
 
 Here is my Arsenal Tools and Skills I use;
 
