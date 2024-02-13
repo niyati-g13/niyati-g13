@@ -9,7 +9,7 @@
 
 <p align="left">
 
-Greetings! I'm Onuralp, a seasoned Senior Software Engineer proficient in Python, Kotlin, C++, Rust and OpenCV. My expertise lies in the captivating realms of AR, Machine Learning, Deep Learning, and Computer Vision. Engaging in extensive DevOps and MLOps practices further complements my skill set. 
+Greetings! I'm Niyati, a seasoned Senior Software Engineer proficient in Python, Kotlin, C++, Rust and OpenCV. My expertise lies in the captivating realms of AR, Machine Learning, Deep Learning, and Computer Vision. Engaging in extensive DevOps and MLOps practices further complements my skill set. 
 
 I am a long term <a href="https://fedoraproject.org/wiki/User:onuralpszr"> Contributor and Mindshare Member,Fedora KDE SIG Member,Fedora Website and Apps Team Member and RPM Packager</a> at Fedora Project.
 
