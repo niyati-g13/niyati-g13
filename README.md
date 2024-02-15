@@ -6,6 +6,11 @@
 
 Greetings! I'm Niyati, a seasoned Senior Software Engineer proficient in Python, Kotlin, C++, Rust and OpenCV. My expertise lies in the captivating realms of AR, Machine Learning, Deep Learning, and Computer Vision. Engaging in extensive DevOps and MLOps practices further complements my skill set. 
 
+<a href="https://images.credly.com/size/680x680/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png">Microsoft Certified AI</a><br>
+
+<a href="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png
+">AWS Certified Cloud Architect</a><br>
+
 I am a long term  Contributor and Mindshare Member,Fedora KDE SIG Member,Fedora Website and Apps Team Member and RPM Packager</a> at Fedora Project.
 
 Professionally, I use Python development on backend side of works and on mobile side I used Kotlin and flutter with Google technologies such as <a href="https://developers.google.com/ar">ARCore</a>,<a href="https://mediapipe.dev/">Mediapipe</a>,<a href="https://firebase.google.com/">Firebase</a>,<a href="https://protobuf.dev/">Protobuf</a>,<a href="https://flatbuffers.dev/">FlatBuffers</a> and many others. On machine learning sides I used <a href="https://www.tensorflow.org">Tensorflow</a>,<a href="https://www.tensorflow.org/tensorboard">Tensorboard</a>,<a href="https://keras.io/">Keras</a>,<a href="https://github.com/google/jax">Jax</a>,<a href="https://www.pytorch.org">Pytorch</a>. These tools enable me to incorporate ML/DL/AI into apps and products. Additionally, I use the Unity engine for creating AR and ML applications.
